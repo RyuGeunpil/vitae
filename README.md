@@ -10,16 +10,15 @@
   Three comparative perspectives of gender, role domain, and employment sector  
 
 ### Indiana University, School of Public and Environmental Affairs, Bloomington, IN, USA  
-- **Degree:** Master of Public Affairs  
+- **Degree:** Master of Public Affairs(MPA)  
 - **Dual Concentrations:** Public Management & Policy Analysis  
 
 ### Graduate Institute of Peace Studies, Kyung Hee University, Gwangneung, South Korea  
-- **Degree:** Master of Public Administration
+- **Degree:** Master of Public Administration(MPA)
 - **Concentration:** Social Welfare Policy
 
- ### Kyung Hee University, Seoul, South Korea  
-- **Degree Completed:** 1999  
-- **Major:** Public Administration
+### Kyung Hee University, Seoul, South Korea  
+- **Degree:** Public Administration(BA)
 
 ---
 
