@@ -1,18 +1,20 @@
 <h2 style="text-align: center;">VITAE</h2>
 
-## EDUCATION
+---
 
-**University at Albany, Rockefeller College of Public Affairs & Policy, State University of New York, Albany, NY, USA**  
+#### EDUCATION
+
+- **University at Albany, Rockefeller College of Public Affairs & Policy, State University of New York, Albany, NY, USA**  
 - Ph.D. in Public Administration and Policy (May 2013)  
 - **Concentration:** Public Management  
 - **Dissertation Topic:** The effects of work and family role stressors on the well–being of public sector employees in South Korea: Three comparative perspectives of gender, role domain, and employment sector  
 - **Dissertation Committee:** R. Karl Rethemeyer (Co–chair), Ellen Rubin (Co–chair), Kathleen Deloughery, and Michael Ford  
 
-**Indiana University, School of Public and Environmental Affairs, Bloomington, IN, USA**  
+- **Indiana University, School of Public and Environmental Affairs, Bloomington, IN, USA**  
 - Master of Public Affairs (2006)  
 - **Dual concentrations:** Public Management & Policy Analysis  
 
-**Graduate Institute of Peace Studies, Kyung Hee University, Gwangneung, S. Korea**  
+- **Graduate Institute of Peace Studies, Kyung Hee University, Gwangneung, S. Korea**  
 - Master of Public Administration: Social Welfare Policy (2003)  
 - **Dissertation:** An analysis of poverty and its correlates  
 
@@ -20,28 +22,19 @@
 - Major: Public Administration
 ---
 
-## JOB EXPERIENCE
-<div id="JE">
+#### JOB EXPERIENCE
 
-- **Chonnam National University, College of Social Science, Kwangju, S. Korea**  
-  &emsp; Associate Professor: Mar. 2023 to current
+- **Chonnam National University, College of Social Science, Kwangju, S. Korea**; Associate Professor: Mar. 2023 to current
 
-- **Chonnam National University, College of Social Science, Kwangju, S. Korea**  
-  &emsp; Assistant Professor: Mar. 2019 to Feb. 2023
+- **Chonnam National University, College of Social Science, Kwangju, S. Korea**; Assistant Professor: Mar. 2019 to Feb. 2023
 
-- **POSCO Group University, Global Leadership Center, Incheon, S. Korea**  
-  &emsp; Senior Consultant/Manager: Feb. 2015 to 2019
+- **POSCO Group University, Global Leadership Center, Incheon, S. Korea**; Senior Consultant/Manager: Feb. 2015 to 2019
 
-- **POSCO Research Institute, HRD & Innovation Division, Pohang, S. Korea**  
-  &emsp; Senior Researcher: May 2013 to Feb. 2015
+- **POSCO Research Institute, HRD & Innovation Division, Pohang, S. Korea**; Senior Researcher: May 2013 to Feb. 2015
 
-- **Ministry of Public Administration and Security, Seoul, S. Korea**  
-  &emsp; Associate manager and consultant: Apr. 2007 to Aug. 2008
+- **Ministry of Public Administration and Security, Seoul, S. Korea**; Associate manager and consultant: Apr. 2007 to Aug. 2008
 
-- **Central Officials Training Institute, Kwachoen, S. Korea**  
-  &emsp; Case researcher: Jun. 2006 to Apr. 2007
-
-</div>
+- **Central Officials Training Institute, Kwachoen, S. Korea**; Case researcher: Jun. 2006 to Apr. 2007
 
 ---
 
