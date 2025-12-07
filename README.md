@@ -1,26 +1,25 @@
-# VITAE
+<center>
+## VITAE
+</center>
 
 ## EDUCATION
-<div id="Education">
 
-- **University at Albany, Rockefeller College of Public Affairs & Policy, State University of New York, Albany, NY, USA**  
+**University at Albany, Rockefeller College of Public Affairs & Policy, State University of New York, Albany, NY, USA**  
   &emsp; Ph.D. in Public Administration and Policy (May 2013)  
   &emsp; **Concentration:** Public Management  
   &emsp; **Dissertation Topic:** The effects of work and family role stressors on the well–being of public sector employees in South Korea: Three comparative perspectives of gender, role domain, and employment sector  
   &emsp; **Dissertation Committee:** R. Karl Rethemeyer (Co–chair), Ellen Rubin (Co–chair), Kathleen Deloughery, and Michael Ford  
 
-- **Indiana University, School of Public and Environmental Affairs, Bloomington, IN, USA**  
+**Indiana University, School of Public and Environmental Affairs, Bloomington, IN, USA**  
   &emsp; Master of Public Affairs (2006)  
   &emsp; **Dual concentrations:** Public Management & Policy Analysis  
 
-- **Graduate Institute of Peace Studies, Kyung Hee University, Gwangneung, S. Korea**  
+**Graduate Institute of Peace Studies, Kyung Hee University, Gwangneung, S. Korea**  
   &emsp; Master of Public Administration: Social Welfare Policy (2003)  
   &emsp; **Dissertation:** An analysis of poverty and its correlates  
 
-- **Kyung Hee University, Seoul, S. Korea (1999)**  
+**Kyung Hee University, Seoul, S. Korea (1999)**  
   &emsp; Major: Public Administration  
-
-</div>
 
 ---
 
