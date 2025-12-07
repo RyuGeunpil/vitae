@@ -1,28 +1,29 @@
 <h2 style="text-align: center;">VITAE</h2>
+---
+
+## EDUCATION
+
+### University at Albany, Rockefeller College of Public Affairs & Policy, State University of New York, Albany, NY, USA  
+- **Degree:** Ph.D. in Public Administration and Policy  
+- **Dissertation Topic:**  
+  The effects of work and family role stressors on the well–being of public sector employees in South Korea:  
+  Three comparative perspectives of gender, role domain, and employment sector  
+
+### Indiana University, School of Public and Environmental Affairs, Bloomington, IN, USA  
+- **Degree:** Master of Public Affairs  
+- **Dual Concentrations:** Public Management & Policy Analysis  
+
+### Graduate Institute of Peace Studies, Kyung Hee University, Gwangneung, South Korea  
+- **Degree:** Master of Public Administration
+- **Concentration:** Social Welfare Policy
+
+ ### Kyung Hee University, Seoul, South Korea  
+- **Degree Completed:** 1999  
+- **Major:** Public Administration
 
 ---
 
-#### EDUCATION
-
-- **University at Albany, Rockefeller College of Public Affairs & Policy, State University of New York, Albany, NY, USA**  
-- Ph.D. in Public Administration and Policy (May 2013)  
-- **Concentration:** Public Management  
-- **Dissertation Topic:** The effects of work and family role stressors on the well–being of public sector employees in South Korea: Three comparative perspectives of gender, role domain, and employment sector  
-- **Dissertation Committee:** R. Karl Rethemeyer (Co–chair), Ellen Rubin (Co–chair), Kathleen Deloughery, and Michael Ford  
-
-- **Indiana University, School of Public and Environmental Affairs, Bloomington, IN, USA**  
-- Master of Public Affairs (2006)  
-- **Dual concentrations:** Public Management & Policy Analysis  
-
-- **Graduate Institute of Peace Studies, Kyung Hee University, Gwangneung, S. Korea**  
-- Master of Public Administration: Social Welfare Policy (2003)  
-- **Dissertation:** An analysis of poverty and its correlates  
-
-**Kyung Hee University, Seoul, S. Korea (1999)**  
-- Major: Public Administration
----
-
-#### JOB EXPERIENCE
+## JOB EXPERIENCE
 
 - **Chonnam National University, College of Social Science, Kwangju, S. Korea**; Associate Professor: Mar. 2023 to current
 
@@ -39,16 +40,14 @@
 ---
 
 ## RESEARCH INTERESTS
-<div id="RI">
 
 - **Organizational Behavior:** Person–Organization Fit (Value Congruence), Occupational Stress, Work and Family Study, Employee’s Well–being  
-- **Strategic Human Resource Management and Development:** Strategic Management, Organizational Development, Human-Resource Development  
+- **Strategic Human Resource Management and Development:** Strategic Management, OD, HRD, HR Analytics  
 - **Social Network Analysis in Organizational Settings:** Socialization and Friendship Ties, Network Structure and Well–being
 
-</div>
+---
 
 ## JOURNAL ARTICLES
-<div id="JA">
 
 ### Journal Articles in English
 - **Ryu, G. (2023).** Why Work-Family Role Transition Matters for Role Strain in North America. *Journal of Applied Social Science*, 17(1), 58–73.
@@ -65,28 +64,17 @@
 - **Ryu, G. (2015).** The Missing Link of Value Congruence and Its Consequences: The Mediating Role of Employees’ Acceptance of Organizational Vision. *Public Personnel Management*, 44(4), 473–495.
 
 ### Journal Articles in Korean
-
-- **Ryu, G., & Lee, J.Y. (2023).** The Relationship between Person-Job Fit and Innovative Behavior of Local Public Employees:  
-  Focusing on the Mediation Effect of Voluntary Learning Behavior and the Moderation Effect of Organizational Learning Culture.  
-  *Korean Public Personnel Administration Review*, 22(1), 249–275.
-
-- **Ryu, G. (2022).** The Types of Acculturation and Acculturative Stress:  
-  Focusing on the Moderation Effects of Social Networks and Korean Language Fluency.  
+- **Ryu, G., & Lee, J.Y. (2023).** The Relationship between Person-Job Fit and Innovative Behavior of Local Public Employees: Focusing on the Mediation Effect of Voluntary Learning Behavior and the Moderation Effect of Organizational Learning Culture. *Korean Public Personnel Administration Review*, 22(1), 249–275.
+- **Ryu, G. (2022).** The Types of Acculturation and Acculturative Stress: Focusing on the Moderation Effects of Social Networks and Korean Language Fluency.  
   *Social Science Study*, 33(4), 237–258.
-
 - **Yang, T.T., & Ryu, G. (2022).** The Effect of Managers' Role of Performance Management on the Perceived Fairness of Performance Appraisal: Focusing on the Mediation Effect of Supervisors' Trustfulness. *Korean Public Personnel Administration Review*, 21(2), 55–89.
-
 - **Dam, Y.N., Ryu, G., & Moon, S.J. (2021).** The Effect of Public Service Motivation on Voluntary Behaviors. *Korean Local Administration Review*, 18(2), 69–92.
-
 - **Ryu, G., & Lee, J.Y. (2020).** Performance Management & Innovative Behavior: Moderated Mediation Effect of Goal Clarity and Innovative Organizational Culture. *Korean Public Personnel Administration Review*, 19(3), 1–22.
-
 - **Ryu, G., & Kim, C.J. (2020).** Performance Management and Subordinates' Competency Development: Moderated-Mediation Effects of Competency Development and Transformational Leadership. *Korean Public Administration Review*, 54(2), 89–114.
 
 ### Books
-
 - **Ryu, G. (2019).** Learning Bureaucracy. In A. Farazmand (Ed.), *Global Encyclopedia of Public Administration, Public Policy, and Governance* (pp. 1–4). Cham: Springer International Publishing.
 - **Ha, H.S., Lee, S.C., Ryu, G., & Kim, J.K. (2022).** *Personnel Management: Administrative and Political Perspectives*. YoonSungSa.
 - **Kim, et al. (2022).** *Public Administration*. ParkYoungSa.
 
-</div>
 ---
