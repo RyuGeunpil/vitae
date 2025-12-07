@@ -5,17 +5,12 @@
 
 ### University at Albany, Rockefeller College of Public Affairs & Policy, State University of New York, Albany, NY, USA  
 - **Degree:** Ph.D. in Public Administration and Policy  
-- **Dissertation Topic:**  
-  The effects of work and family role stressors on the well–being of public sector employees in South Korea:  
-  Three comparative perspectives of gender, role domain, and employment sector  
 
 ### Indiana University, School of Public and Environmental Affairs, Bloomington, IN, USA  
 - **Degree:** Master of Public Affairs(MPA)  
-- **Dual Concentrations:** Public Management & Policy Analysis  
 
 ### Graduate Institute of Peace Studies, Kyung Hee University, Gwangneung, South Korea  
 - **Degree:** Master of Public Administration(MPA)
-- **Concentration:** Social Welfare Policy
 
 ### Kyung Hee University, Seoul, South Korea  
 - **Degree:** Public Administration(BA)
